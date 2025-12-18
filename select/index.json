@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Bell flower",
+  "base_artist": "z²",
+  "createdAt": "2025-12-18T10:20:07.646855Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Candy (feat. Ricky Bell & Ralph Tresvant)",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/01_Candy_(feat._Ricky_Bell_&_Ralph_Tresvant)_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Candy (feat. Ralph Tresvant and Ricky Bell of New Edition)",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/02_Candy_(feat._Ralph_Tresvant_and_Ricky_Bell_of_New_Edition)_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Morning Bell",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_Morning_Bell_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Morning Bell - Live At Canal+ Studios, Paris",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/04_Morning_Bell_-_Live_At_Canal+_Studios,_Paris_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Morning Bell (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/05_Morning_Bell_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Morning Bell - Live in Oxford",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/06_Morning_Bell_-_Live_in_Oxford_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Morning Bell (Oxford)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/07_Morning_Bell_(Oxford)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Morning Bell/Amnesiac",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/08_Morning_Bell_Amnesiac_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Morning Bell/Amnesiac",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/09_Morning_Bell_Amnesiac_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ring the Bell",
+      "artist": "YACHT",
+      "has_synced": false,
+      "path": "select/10_Ring_the_Bell_YACHT.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bell Bottom Pants",
+      "artist": "Loudon Wainwright III",
+      "has_synced": true,
+      "path": "select/11_Bell_Bottom_Pants_Loudon_Wainwright_III.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Saved by the Bell",
+      "artist": "Lil Xan",
+      "has_synced": true,
+      "path": "select/12_Saved_by_the_Bell_Lil_Xan.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lone Bell",
+      "artist": "Mount Eerie",
+      "has_synced": true,
+      "path": "select/13_Lone_Bell_Mount_Eerie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ring My Bell - Non-Album Track",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/14_Ring_My_Bell_-_Non-Album_Track_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ring My Bell",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/15_Ring_My_Bell_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Bell",
+      "artist": "Mike Oldfield",
+      "has_synced": true,
+      "path": "select/16_The_Bell_Mike_Oldfield.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Bell Will Ring",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/17_A_Bell_Will_Ring_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Look at the Bell",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/18_Look_at_the_Bell_of_Montreal.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bell flower",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_Bell_flower_z2.txt"
+    }
+  ]
+}
